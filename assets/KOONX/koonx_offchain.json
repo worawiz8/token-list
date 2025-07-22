@@ -1,0 +1,33 @@
+{
+  "name": "KOONX",
+  "symbol": "KOONX",
+  "description": "KOONX is a utility token powering clean energy and decentralized infrastructure on Solana Devnet.",
+  "image": "https://raw.githubusercontent.com/worawiz8/token-list/main/assets/KOONX/logo.png",
+  "external_url": "https://koonx.dev",
+  "attributes": [
+    {
+      "trait_type": "Token Type",
+      "value": "Utility"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana Devnet"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/worawiz8/token-list/main/assets/KOONX/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "F8f8QpSLfJtFvUsPQCLTPYgoQiuCyPv2PgNLXMaGC9tB",
+        "share": 100
+      }
+    ]
+  }
+}
+
